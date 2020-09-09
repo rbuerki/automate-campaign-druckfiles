@@ -95,4 +95,3 @@ There is a testfile `df_pytest.csv` in the `tests/data` folder containing 9 rows
 
     Employee count:
     - 2 employees (rows 0, 1)
-# automate_campaign_druckfiles
